@@ -1,3 +1,3 @@
-这个仓库的 issue 用于存储博客的评论。
+这个仓库的 Discussions 用于存储博客的评论。
 
-Issues in this repository are used to store blog comments.
+Discussions in this repository are used to store blog comments.
